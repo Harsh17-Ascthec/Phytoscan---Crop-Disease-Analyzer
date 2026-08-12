@@ -1,0 +1,6 @@
+Required Libraries Included:
+streamlit (v1.30.0+): Powers your modern English web browser interface and interactive diagnostic dashboard.
+tensorflow (v2.15.0+): Provides the deep learning backend for model architecture compiling, training, and running inference via auto_chloro_model.h5.
+numpy (v1.24.0+): Translates uploaded leaves into multi-dimensional arrays for machine learning preprocessing.
+pandas (v2.0.0+): Formats and structure tables for your farmer history database logs.
+Pillow (v10.0.0+): Manages uploading, opening, and resizing of crop photographs.

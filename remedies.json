@@ -1,0 +1,62 @@
+{
+    "Pepper__bell___Bacterial_spot images": {
+        "display_name": "Pepper (Bell) - Bacterial Spot",
+        "remedy": "Biological Control: Apply copper-based bactericides to form a protective layer on foliage. Use bacteriophages targeting Xanthomonas campestris if available. To sanitize seed stock, soak seeds in a 1.3% sodium hypochlorite solution for 1 minute or hot water at 50°C for 25 minutes.\n\nChemical Control: Apply preventative copper sprays mixed with Mancozeb immediately upon detecting symptoms. Repeat applications every 10 to 14 days during warm, humid weather. Always follow label-mandated pre-harvest intervals."
+    },
+    "Pepper__bell___healthy images": {
+        "display_name": "Pepper (Bell) - Healthy",
+        "remedy": "Your crop is healthy! Maintain regular drip irrigation, monitor fertilizer levels, and keep the field free of weeds to prevent future disease outbreaks."
+    },
+    "Potato___Early_blight images": {
+        "display_name": "Potato - Early Blight",
+        "remedy": "Biological Control: Use bio-fungicides based on Bacillus subtilis or copper-based bio-agents acceptable under organic farming guidelines.\n\nChemical Control: Apply preventative or curative fungicides containing Azoxystrobin, Pyraclostrobin, Difenoconazole, Boscalid, Chlorothalonil, or Mancozeb. Ensure you alternate between different chemical modes of action to prevent the pathogen from developing resistance."
+    },
+    "Potato___healthy images": {
+        "display_name": "Potato - Healthy",
+        "remedy": "Your potato plants are in healthy condition! Continue standard weeding, hill the soil around the tubers, and monitor foliage for any signs of early infection."
+    },
+    "Potato___Late_blight images": {
+        "display_name": "Potato - Late Blight",
+        "remedy": "Biological Control: Apply copper-based organic fungicides before wet, cool weather periods set in. Regularly scout fields and physically remove and destroy any infected plants. Do not compost infected plant waste.\n\nChemical Control: Apply highly effective preventative fungicides such as Mandipropamid, Chlorothalonil, Fluazinam, Triphenyltin, or Mancozeb. Ensure full leaf canopy coverage, especially during high humidity."
+    },
+    "Tomato_Bacterial_spot images": {
+        "display_name": "Tomato - Bacterial Spot",
+        "remedy": "Biological Control: Apply copper bactericides to form a protective coat on leaves and fruits. Apply bacteriophages if available. Treat seeds in hot water (50°C) for 25 minutes to eliminate pathogens.\n\nChemical Control: Spray copper-based bactericides combined with Mancozeb at the very first sign of infection. Reapply every 10-14 days during warm, rainy, or highly humid periods."
+    },
+    "Tomato_Early_blight images": {
+        "display_name": "Tomato - Early Blight",
+        "remedy": "Biological Control: Use bio-fungicides containing Bacillus subtilis or organic-certified copper compounds to suppress fungal growth.\n\nChemical Control: Use registered fungicides like Azoxystrobin, Pyraclostrobin, Difenoconazole, Boscalid, Chlorothalonil, or Mancozeb. Alternate different chemical groups to ensure effective control without triggering resistance."
+    },
+    "Tomato_healthy images": {
+        "display_name": "Tomato - Healthy",
+        "remedy": "Your tomato plants look completely healthy! Maintain adequate calcium levels in the soil to prevent blossom end rot, water at the base, and prune lower leaves to promote good air circulation."
+    },
+    "Tomato_Late_blight images": {
+        "display_name": "Tomato - Late Blight",
+        "remedy": "Biological Control: No highly effective biological cures exist. Promptly remove, pull up, and destroy infected plants in high-infection zones to prevent field-wide airborne spore spread. Do not compost infected foliage.\n\nChemical Control: Spray preventative contact or systemic fungicides containing Mandipropamid, Chlorothalonil, Fluazinam, or Mancozeb, especially when wet, foggy, and cool climates occur."
+    },
+    "Tomato_Leaf_Mold images": {
+        "display_name": "Tomato - Leaf Mold",
+        "remedy": "Biological Control: Treat seeds with hot water (50°C) for 25 minutes. Apply biological control agents such as Acremonium strictum, Dicyma pulvinata, Trichoderma harzianum, or Trichoderma viride to suppress the mold fungus. In smaller home plots, spraying diluted apple cider vinegar or baking soda can help.\n\nChemical Control: Apply preventative sprays of Chlorothalonil, Maneb, Mancozeb, or copper-based fungicides. For greenhouse environments, use specialized treatments containing Difenoconazole, Mandipropamid, Cymoxanil, Famoxadone, or Cyprodinil."
+    },
+    "Tomato_Septoria_leaf_spot images": {
+        "display_name": "Tomato - Septoria Leaf Spot",
+        "remedy": "Biological Control: Apply organic copper-based fungicides (such as Bordeaux mixture, copper hydroxide, copper sulfate, or copper oxychloride sulfate). Spray every 7 to 10 days throughout the growing season, particularly during flowering and fruiting.\n\nChemical Control: Protectant fungicides containing Maneb, Mancozeb, and Chlorothalonil are highly effective. Spray every 7-10 days under warm, wet conditions. Adhere strictly to pre-harvest intervals."
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite images": {
+        "display_name": "Tomato - Two-Spotted Spider Mite",
+        "remedy": "Biological Control: For mild infestations, wash mites off leaves using high-pressure water hoses and prune heavily affected foliage. Spray organic concoctions such as neem oil, castor oil, basil/garlic teas, or insecticidal soaps. Release natural predators like Phytoseiulus persimilis or apply Bacillus thuringiensis bio-pesticides. Apply a second spray 2-3 days later to target newly hatched eggs.\n\nChemical Control: Mites build resistance quickly. Use specific acaricides/miticides like Spiromesifen, Dicofol, Abamectin, or wettable sulfur. Avoid broad-spectrum insecticides which kill beneficial predatory insects."
+    },
+    "Tomato__Target_Spot images": {
+        "display_name": "Tomato - Target Spot",
+        "remedy": "Cultural Control: Irrigate plants exclusively in the early morning so leaves dry quickly in the sun. Use drip irrigation or ground-level soaker hoses instead of overhead sprinklers. Apply organic mulch around the base of the tomato plants to prevent soil-borne spores from splashing onto lower leaves."
+    },
+    "Tomato__Tomato_mosaic_virus images": {
+        "display_name": "Tomato - Mosaic Virus",
+        "remedy": "Cultural Control: Seed sanitation is critical. Dry-heat clean seeds at 70°C for 4 days or 82-85°C for 24 hours. Alternatively, soak seeds in a 10% trisodium phosphate (TSP) solution for 15 minutes, followed by a thorough rinse with clean water. Wash hands and tools with soapy water before handling plants.\n\nChemical Control: There are no effective chemical treatments or virucides available for viral infections. Instantly pull up and bury/burn infected plants."
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus images": {
+        "display_name": "Tomato - Yellow Leaf Curl Virus",
+        "remedy": "Cultural Control: There is no direct cure for the virus. Preventative management relies on controlling the insect vector (silverleaf whiteflies). Use fine-mesh row covers, yellow sticky traps, and reflective silver mulches to repel whiteflies.\n\nChemical Control: Control whiteflies using target insecticides like pyrethroids or systemic neonicotinoids. Rotate chemical families to prevent whiteflies from developing localized resistance."
+    }
+}
